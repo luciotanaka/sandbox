@@ -1,0 +1,4 @@
+numberOneInit
+1
+um
+one
